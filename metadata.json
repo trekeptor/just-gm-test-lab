@@ -1,0 +1,5 @@
+{
+  "name": "JustGM TestLab",
+  "description": "A comprehensive dApp for developers to explore multiple Ethereum testnets, perform on-chain greetings, and deploy smart contracts with built-in activity tracking.",
+  "requestFramePermissions": []
+}
