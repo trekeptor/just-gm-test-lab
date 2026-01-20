@@ -1,20 +1,91 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🚀 JustGM TestLab
+<img width="1920" height="730" alt="Screenshot (605)" src="https://github.com/user-attachments/assets/1c19ca8d-10da-482c-b375-c07448696018" />
 
-# Run and deploy your AI Studio app
+A simple testnet-focused decentralized application for:
+- 🌅 Daily **GM (Good Morning)** interactions
+- 📜 **Smart contract deployments** across multiple testnets
+- 🧪 Practicing onchain workflows without mainnet risk
 
-This contains everything you need to run your app locally.
+Built for learning, testing, and staying active on testnets.
+<img width="1920" height="918" alt="Screenshot (606)" src="https://github.com/user-attachments/assets/84c6a29f-0df7-403f-b6ee-584ef7d548d3" />
 
-View your app in AI Studio: https://ai.studio/apps/drive/19Szbib4j9FT86NSMl3eLu19CG-tRdDLc
+---
 
-## Run Locally
+## ✨ Features
 
-**Prerequisites:**  Node.js
+- Daily **GM** onchain interaction  
+- Deploy smart contracts to supported testnets  
+- Wallet connect (EVM compatible)  
+- Transaction history & status feedback  
+- Lightweight, beginner-friendly setup  
+
+---
+
+## 🧪 Supported Testnets
+
+- Ethereum Sepolia  
+- Arbitrum Sepolia  
+- Optimism Sepolia  
+- Base Sepolia  
+- Polygon Amoy
+- Incentiv Testnet
+- Giwa Testnet
+- Fluent Testnet
+- KiteAI Testnet
+- Irys Testnet
+- Pharos Testnet
+- SANDchain Testnet
+- Arc Testnet
+- RISE Testnet
+- Kii Testnet
+- X1ECO Testnet
+- Rayls Testnet
+- Citrea Testnet
+- Neura Testnet
+- Tempo Testnet
+- Datahaven Testnet
+- OPN Testnet 
+
+> Testnets may change over time as ecosystems evolve.
+
+---
+
+## 🛠️ Tech Stack
+
+- Frontend: Vite + React  
+- Smart Contracts: Solidity  
+- Wallet: MetaMask / WalletConnect  
+- RPC: Public testnet RPCs  
+- Tooling: Hardhat / Foundry  
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/trekeptor/just-gm-test-lab.git
+cd just-gm-test-lab
+npm install
+npm run dev
+
+---
+
+## Purpose
+
+This project is intentionally simple:
+
+Build daily onchain habit
+Learn contract deployment
+Test wallets, RPCs, and networks
+Stay active in testnet ecosystems
+Not designed for production use.
+
+---
+
+## ⚠️ Disclaimer
+
+Testnet only - no real value involved
+Contracts are unaudited
+Use at your own risk
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
