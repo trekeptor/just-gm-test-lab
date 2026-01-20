@@ -61,12 +61,12 @@ Built for learning, testing, and staying active on testnets.
 ---
 
 ## 📦 Installation
-
+```bash
 git clone https://github.com/trekeptor/just-gm-test-lab.git
 cd just-gm-test-lab
 npm install
 npm run dev
-
+```
 ---
 
 ## Purpose
