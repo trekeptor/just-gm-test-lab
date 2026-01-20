@@ -1,5 +1,6 @@
 # 🚀 JustGM TestLab
-<img width="1920" height="730" alt="Screenshot (605)" src="https://github.com/user-attachments/assets/1c19ca8d-10da-482c-b375-c07448696018" />
+<img width="1885" height="813" alt="Screenshot (607)" src="https://github.com/user-attachments/assets/df9d51dc-e967-41c8-a925-c7bc2ffa4767" />
+
 
 A simple testnet-focused decentralized application for:
 - 🌅 Daily **GM (Good Morning)** interactions
@@ -7,7 +8,8 @@ A simple testnet-focused decentralized application for:
 - 🧪 Practicing onchain workflows without mainnet risk
 
 Built for learning, testing, and staying active on testnets.
-<img width="1920" height="918" alt="Screenshot (606)" src="https://github.com/user-attachments/assets/84c6a29f-0df7-403f-b6ee-584ef7d548d3" />
+<img width="1884" height="912" alt="Screenshot (608)" src="https://github.com/user-attachments/assets/c5700a5d-1292-4f6f-96b8-63f979d21898" />
+
 
 ---
 
