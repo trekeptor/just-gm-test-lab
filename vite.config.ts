@@ -1,4 +1,3 @@
-is this correct vite config
 
 import path from 'path';
 import { defineConfig, loadEnv } from 'vite';
