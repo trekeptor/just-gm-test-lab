@@ -8,7 +8,7 @@ export const SUPPORTED_NETWORKS: Testnet[] = [
     symbol: 'ETH',
     rpcUrl: 'https://rpc.sepolia.org',
     explorerUrl: 'https://sepolia.etherscan.io',
-    logo: '/just-gm-test-lab/img/eth.png',
+    logo: '/img/eth.png',
     color: '#627EEA',
     faucetUrl: 'https://sepoliafaucet.com/'
   },
@@ -16,9 +16,9 @@ export const SUPPORTED_NETWORKS: Testnet[] = [
     id: 84532,
     name: 'Base Sepolia',
     symbol: 'ETH',
-    rpcUrl: 'wss://base-sepolia.drpc.org',
+    rpcUrl: 'https://rpc.walletconnect.org/v1/?chainId=eip155%3A84532&projectId=d5e1c413bf5711e8e4b2094b3dad5b48',
     explorerUrl: 'https://sepolia.basescan.org',
-    logo: '/just-gm-test-lab/img/base.jpg',
+    logo: '/img/base.jpg',
     color: '#0052FF',
     faucetUrl: 'https://faucet.quicknode.com/base/sepolia'
   },
@@ -78,7 +78,7 @@ export const SUPPORTED_NETWORKS: Testnet[] = [
     symbol: 'INC',
     rpcUrl: 'https://rpc.incentiv.io',
     explorerUrl: 'https://explorer.incentiv.io',
-    logo: '/just-gm-test-lab/img/incentiv.webp',
+    logo: '/img/incentiv.webp',
     color: '#ff4d4d',
     faucetUrl: 'https://portal.incentiv.io/'
   },
@@ -88,7 +88,7 @@ export const SUPPORTED_NETWORKS: Testnet[] = [
     symbol: 'GIWA',
     rpcUrl: 'https://sepolia-rpc.giwa.io',
     explorerUrl: 'https://explorer.giwa.network',
-    logo: '/just-gm-test-lab/img/giwa.webp',
+    logo: '/img/giwa.webp',
     color: '#4dff88',
     faucetUrl: 'https://faucet.giwa.io/'
   },
@@ -98,7 +98,7 @@ export const SUPPORTED_NETWORKS: Testnet[] = [
     symbol: 'FLUENT',
     rpcUrl: 'https://rpc.testnet.fluent.xyz',
     explorerUrl: 'https://explorer.fluent.xyz',
-    logo: '/just-gm-test-lab/img/fluent.webp',
+    logo: '/img/fluent.webp',
     color: '#4db8ff',
     faucetUrl: 'https://testnet.fluent.xyz/dev-portal'
   },
@@ -108,7 +108,7 @@ export const SUPPORTED_NETWORKS: Testnet[] = [
     symbol: 'KITE',
     rpcUrl: 'https://rpc-testnet.gokite.ai',
     explorerUrl: 'https://explorer.kiteai.org',
-    logo: '/just-gm-test-lab/img/kite.webp',
+    logo: '/img/kite.webp',
     color: '#ffcc00',
     faucetUrl: 'https://faucet.gokite.ai/'
   },
@@ -118,7 +118,7 @@ export const SUPPORTED_NETWORKS: Testnet[] = [
     symbol: 'IRYS',
     rpcUrl: 'https://testnet-rpc.irys.xyz/v1/execution-rpc',
     explorerUrl: 'https://explorer.irys.xyz',
-    logo: '/just-gm-test-lab/img/irys.webp',
+    logo: '/img/irys.webp',
     color: '#ff66ff',
     faucetUrl: 'https://irys.xyz/faucet'
   },
@@ -128,7 +128,7 @@ export const SUPPORTED_NETWORKS: Testnet[] = [
     symbol: 'PHRS',
     rpcUrl: 'https://atlantic.dplabs-internal.com',
     explorerUrl: 'https://explorer.pharos.network',
-    logo: '/just-gm-test-lab/img/pharos.webp',
+    logo: '/img/pharos.webp',
     color: '#00cc99',
     faucetUrl: 'https://testnet.pharosnetwork.xyz/'
   },
@@ -138,7 +138,7 @@ export const SUPPORTED_NETWORKS: Testnet[] = [
     symbol: 'SAND',
     rpcUrl: 'https://sandchain-rpc.caldera.xyz/http',
     explorerUrl: 'https://explorer.sandchain.io',
-    logo: '/just-gm-test-lab/img/sand.webp',
+    logo: '/img/sand.webp',
     color: '#0084ff',
     faucetUrl: 'https://sandchain-hub.caldera.xyz/'
   },
@@ -148,7 +148,7 @@ export const SUPPORTED_NETWORKS: Testnet[] = [
     symbol: 'ARC',
     rpcUrl: 'https://rpc.testnet.arc.network',
     explorerUrl: 'https://testnet.arcscan.app/',
-    logo: '/just-gm-test-lab/img/arc.webp',
+    logo: '/img/arc.webp',
     color: '#ff9966',
     faucetUrl: 'https://faucet.circle.com/'
   },
@@ -158,7 +158,7 @@ export const SUPPORTED_NETWORKS: Testnet[] = [
     symbol: 'RISE',
     rpcUrl: 'https://testnet.riselabs.xyz',
     explorerUrl: 'https://explorer.rise.xyz',
-    logo: '/just-gm-test-lab/img/rise.webp',
+    logo: '/img/rise.webp',
     color: '#6666ff',
     faucetUrl: 'https://portal.risechain.com/'
   },
@@ -168,7 +168,7 @@ export const SUPPORTED_NETWORKS: Testnet[] = [
     symbol: 'KII',
     rpcUrl: 'https://json-rpc.uno.sentry.testnet.v3.kiivalidator.com',
     explorerUrl: 'https://explorer.kii.chain',
-    logo: '/just-gm-test-lab/img/kii.webp',
+    logo: '/img/kii.webp',
     color: '#cc33ff',
     faucetUrl: 'https://explorer.kiichain.io/faucet'
   },
@@ -178,7 +178,7 @@ export const SUPPORTED_NETWORKS: Testnet[] = [
     symbol: 'X1',
     rpcUrl: 'https://maculatus-rpc.x1eco.com',
     explorerUrl: 'https://explorer.x1eco.com',
-    logo: '/just-gm-test-lab/img/x1.webp',
+    logo: '/img/x1.webp',
     color: '#33cc33',
     faucetUrl: 'https://x1ecochain.gitbook.io/x1-ecochain-tech-whitepaper/development-environment/faucet-guide'
   },
@@ -188,7 +188,7 @@ export const SUPPORTED_NETWORKS: Testnet[] = [
     symbol: 'RAYLS',
     rpcUrl: 'https://devnet-rpc.rayls.com',
     explorerUrl: 'https://explorer.rayls.network',
-    logo: '/just-gm-test-lab/img/rayls.webp',
+    logo: '/img/rayls.webp',
     color: '#9933ff',
     faucetUrl: 'https://devnet-dapp.rayls.com/'
   },
@@ -198,7 +198,7 @@ export const SUPPORTED_NETWORKS: Testnet[] = [
     symbol: 'CIT',
     rpcUrl: 'https://rpc.testnet.citrea.xyz',
     explorerUrl: 'https://explorer.citrea.xyz',
-    logo: '/just-gm-test-lab/img/citrea.webp',
+    logo: '/img/citrea.webp',
     color: '#ff3399',
     faucetUrl: 'https://citrea.xyz/faucet'
   },
@@ -208,7 +208,7 @@ export const SUPPORTED_NETWORKS: Testnet[] = [
     symbol: 'NEURA',
     rpcUrl: 'https://rpc.ankr.com/neura_testnet',
     explorerUrl: 'https://explorer.neura.ai',
-    logo: '/just-gm-test-lab/img/neura.webp',
+    logo: '/img/neura.webp',
     color: '#3366ff',
     faucetUrl: 'https://neuraverse.neuraprotocol.io/?section=faucet'
   },
@@ -218,7 +218,7 @@ export const SUPPORTED_NETWORKS: Testnet[] = [
     symbol: 'TEMPO',
     rpcUrl: 'https://rpc.moderato.tempo.xyz',
     explorerUrl: 'https://explorer.tempo.io',
-    logo: '/just-gm-test-lab/img/tempo.webp',
+    logo: '/img/tempo.webp',
     color: '#ff6600',
     faucetUrl: 'https://docs.tempo.xyz/quickstart/faucet'
   },
@@ -228,7 +228,7 @@ export const SUPPORTED_NETWORKS: Testnet[] = [
     symbol: 'DATA',
     rpcUrl: 'https://services.datahaven-testnet.network/testnet',
     explorerUrl: 'https://explorer.datahaven.xyz',
-    logo: '/just-gm-test-lab/img/datahaven.webp',
+    logo: '/img/datahaven.webp',
     color: '#00ccff',
     faucetUrl: 'https://apps.datahaven.xyz/testnet/faucet'
   },
@@ -238,7 +238,7 @@ export const SUPPORTED_NETWORKS: Testnet[] = [
     symbol: 'OPN',
     rpcUrl: 'https://testnet-rpc.iopn.tech',
     explorerUrl: 'https://explorer.opn.network',
-    logo: '/just-gm-test-lab/img/opn.webp',
+    logo: '/img/opn.webp',
     color: '#ff3300',
     faucetUrl: 'https://faucet.iopn.tech/'
   }
